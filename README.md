@@ -43,7 +43,7 @@ GRANT ALL PRIVILEGES ON main\_db.\* TO 'sa'@'localhost';
 
 In Apache, copy the php files to the folder like brz\_app
 
-open website http://localhost/brz\_app
+open website http://localhost/brz_app
 
 
 
