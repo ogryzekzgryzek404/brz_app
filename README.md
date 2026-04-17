@@ -2,10 +2,11 @@ Centralny Rejestr Rzeczy Znalezionych
 
 The web app allowing to register and enter the data published in the public information bulletin regarding the lost and found things.
 Allowing to download a structurized json to upload the data to dane.gov.pl
+
 TYPE OF PROJECT: sql + php + js + bootstrap + dom
 
 Challange submited on Hacknation 2025 with score 3.35/5
-This is a MIT license product - test challange project.
+This is a MIT licensed product - a test challange project.
 
 Deploy requirements: 
 
